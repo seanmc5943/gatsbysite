@@ -1,0 +1,376 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-5a1ee105f05b3144b807.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.69c8303230227041b58c.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-89fd2ae28bdf06750a71.js
+  Cache-Control: public, max-age=31536000, immutable
+/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-5de8f52f4b42236dfd42.js
+  Cache-Control: public, max-age=31536000, immutable
+/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-8c8acb1ec6756d04db78.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-241c9f6902d266477c23.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-1cce05f951cf82ff7f76.js
+  Cache-Control: public, max-age=31536000, immutable
+/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-cc7ca4153f933535bab5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-e0c0ae00e4feee572f8e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-c9792878e68ca48061f3.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-b2b7fee3b7a9baf634d0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-3b56c22d79bbd0fca0eb.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-7881bf80115933ac0d71.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-819067737a84e3335151.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-cc3884068482c29dbcee.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-a43c067849fda3515b2d.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/gatsbysite/offline-plugin-app-shell-fallback/
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/component---cache-caches-gatsby-plugin-offline-app-shell-js-5a1ee105f05b3144b807.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/404
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-not-found-template-js-5de8f52f4b42236dfd42.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tags
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-8c8acb1ec6756d04db78.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tags-list-template-js-241c9f6902d266477c23.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/categories
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-8c8acb1ec6756d04db78.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-categories-list-template-js-1cce05f951cf82ff7f76.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/404.html
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-not-found-template-js-5de8f52f4b42236dfd42.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/posts/perfecting-the-art-of-perfection
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-post-template-js-cc7ca4153f933535bab5.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/posts/a-brief-history-of-typography
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-post-template-js-cc7ca4153f933535bab5.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/posts/the-origins-of-social-stationery-lettering
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-post-template-js-cc7ca4153f933535bab5.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/posts/the-birth-of-movable-type
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-post-template-js-cc7ca4153f933535bab5.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/pages/about/
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-page-template-js-e0c0ae00e4feee572f8e.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/pages/contacts/
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-page-template-js-e0c0ae00e4feee572f8e.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/posts/humane-typography-in-the-digital-age
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-post-template-js-cc7ca4153f933535bab5.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/design
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/design/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/gatsby
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/handwriting
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/handwriting/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/helvetica
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/helvetica/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/history-of-typography
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/learning-to-write
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/learning-to-write/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/linotype
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/linotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/monotype
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/monotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/open-source
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/typography
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/tag/web-development
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-tag-template-js-c9792878e68ca48061f3.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/tag/web-development/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/category/design-culture
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-category-template-js-b2b7fee3b7a9baf634d0.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/category/design-culture/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/category/design-inspiration
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-category-template-js-b2b7fee3b7a9baf634d0.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/category/design-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/category/typography
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-category-template-js-b2b7fee3b7a9baf634d0.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/category/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-index-template-js-3b56c22d79bbd0fca0eb.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/gatsbysite/page/1
+  Link: </gatsbysite/webpack-runtime-7881bf80115933ac0d71.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </gatsbysite/532a2f07-cc3884068482c29dbcee.js>; rel=preload; as=script
+  Link: </gatsbysite/app-a43c067849fda3515b2d.js>; rel=preload; as=script
+  Link: </gatsbysite/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </gatsbysite/cd95ea5cbd2c605f26db819f07999610c9ff4310-e3e3a01a1aa97f1e8391.js>; rel=preload; as=script
+  Link: </gatsbysite/643651a62fb35a9bb4f20061cb1f214a352d7976-72df4df6faa689bfbe97.js>; rel=preload; as=script
+  Link: </gatsbysite/component---src-templates-index-template-js-3b56c22d79bbd0fca0eb.js>; rel=preload; as=script
+  Link: </gatsbysite/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </gatsbysite/page-data/page/1/page-data.json>; rel=preload; as=fetch; crossorigin
