@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sean McCulloch]]></title><description><![CDATA[Sean McCulloch]]></description><link>https://github.com/seanmc5943/gatsbysite.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Oct 2020 02:00:49 GMT</lastBuildDate><item><title><![CDATA[Developable Land]]></title><description><![CDATA[Visualization of Saiz''s Geographic Determinants of Housing Supply]]></description><link>https://github.com/seanmc5943/gatsbysite.git/posts/developable-land</link><guid isPermaLink="false">https://github.com/seanmc5943/gatsbysite.git/posts/developable-land</guid><pubDate>Sun, 04 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;An important paper in the housing supply literature is “The Geographic Determinants of Housing Supply” by Albert Saiz, which estimates the amount of area within 50km of major U.S. city centers that is undevelopable due to geographic features like ocean, wetlands, and mountainous terrain. For the purposes of the paper, land is considered undevelopable either because it is covered with water or has a slope of greater than 15 percent. He concludes that geography plays a large role in urban growth not only by directly reducing land availability, but also by increasing land values and incentivizing regulatory constraints on land use. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sean McCulloch]]></title><description><![CDATA[Sean McCulloch]]></description><link>https://github.com/seanmc5943/gatsbysite.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Oct 2020 02:05:04 GMT</lastBuildDate><item><title><![CDATA[Developable Land]]></title><description><![CDATA[Visualization of Saiz''s Geographic Determinants of Housing Supply]]></description><link>https://github.com/seanmc5943/gatsbysite.git/posts/developable-land</link><guid isPermaLink="false">https://github.com/seanmc5943/gatsbysite.git/posts/developable-land</guid><pubDate>Sun, 04 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;An important paper in the housing supply literature is “The Geographic Determinants of Housing Supply” by Albert Saiz, which estimates the amount of area within 50km of major U.S. city centers that is undevelopable due to geographic features like ocean, wetlands, and mountainous terrain. For the purposes of the paper, land is considered undevelopable either because it is covered with water or has a slope of greater than 15 percent. He concludes that geography plays a large role in urban growth not only by directly reducing land availability, but also by increasing land values and incentivizing regulatory constraints on land use. &lt;/p&gt;
 &lt;p&gt;However, at least in the final published form of the paper, there are no maps of these cities. Below are maps of two major American cities I made from satellite data where white space is geographic area that is difficult or impossible to build on. Each map is the area within 30 miles of a city center and purple denotes census tracts with higher density of &lt;a href=&quot;https://github.com/microsoft/USBuildingFootprints&quot;&gt; building footprints&lt;/a&gt;.  Many will recognize that the left image is San Francisco, CA—but what about the city in the right image?
 &lt;table&gt;&lt;tr&gt;
 &lt;td&gt; &lt;img src=&quot;../media/saiz_maps/san_francisco.png&quot; alt=&quot;san_francisco&quot; width=&quot;325&quot;/&gt;  &lt;/td&gt;
-&lt;td&gt; &lt;img src=&quot;./media/saiz_maps/atlanta.png&quot; alt=&quot;atlanta&quot; width=&quot;325&quot;/&gt; &lt;/td&gt;
+&lt;td&gt; &lt;img src=&quot;../media/saiz_maps/atlanta.png&quot; alt=&quot;atlanta&quot; width=&quot;325&quot;/&gt; &lt;/td&gt;
 &lt;tr/&gt;&lt;/table&gt;
 
 &lt;img src=&quot;/media/colorscale_tracts.png&quot; alt=&quot;colorscale_tracts&quot; width=&quot;275&quot;/&gt; &lt;/p&gt;
@@ -12,27 +12,27 @@ Below are high resolution maps for the twelve largest U.S. metropolitan areas (o
 &lt;li&gt;New York City
 &lt;img src=&quot;../media/saiz_maps/new_york.png&quot; alt=&quot;new_york.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Los Angeles
-&lt;img src=&quot;./media/saiz_maps/los_angeles.png&quot; alt=&quot;los_angeles.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/los_angeles.png&quot; alt=&quot;los_angeles.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Chicago
-&lt;img src=&quot;./media/saiz_maps/chicago.png&quot; alt=&quot;chicago.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/chicago.png&quot; alt=&quot;chicago.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Dallas
-&lt;img src=&quot;./media/saiz_maps/dallas.png&quot; alt=&quot;dallas.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/dallas.png&quot; alt=&quot;dallas.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Houston
-&lt;img src=&quot;./media/saiz_maps/houston.png&quot; alt=&quot;houston.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/houston.png&quot; alt=&quot;houston.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Washington D.C.
-&lt;img src=&quot;./media/saiz_maps/washington_DC.png&quot; alt=&quot;washington_DC.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/washington_DC.png&quot; alt=&quot;washington_DC.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Miami
-&lt;img src=&quot;./media/saiz_maps/miami.png&quot; alt=&quot;miami.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/miami.png&quot; alt=&quot;miami.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Philadelphia
-&lt;img src=&quot;./media/saiz_maps/philadelphia.png&quot; alt=&quot;philadelphia.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/philadelphia.png&quot; alt=&quot;philadelphia.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Atlanta
-&lt;img src=&quot;./media/saiz_maps/atlanta.png&quot; alt=&quot;atlanta.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/atlanta.png&quot; alt=&quot;atlanta.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Boston
-&lt;img src=&quot;./media/saiz_maps/boston.png&quot; alt=&quot;boston.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/boston.png&quot; alt=&quot;boston.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Phoenix
-&lt;img src=&quot;./media/saiz_maps/phoenix.png&quot; alt=&quot;phoenix.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/phoenix.png&quot; alt=&quot;phoenix.png&quot;&gt;&lt;/li&gt;
 &lt;li&gt;San Francisco
-&lt;img src=&quot;./media/saiz_maps/san_francisco.png&quot; alt=&quot;san_francisco.png&quot;&gt;&lt;/li&gt;
+&lt;img src=&quot;../media/saiz_maps/san_francisco.png&quot; alt=&quot;san_francisco.png&quot;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h4 id=&quot;references--mapbox-attribution&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#references--mapbox-attribution&quot; aria-label=&quot;references  mapbox attribution permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;References &amp;#x26; Mapbox Attribution&lt;/h4&gt;
 &lt;p&gt;Saiz, Albert. &lt;em&gt;The Geographic Determinants of Housing Supply&lt;/em&gt;. Quarterly Journal of Economics 125, 3 (2010) &lt;/p&gt;
